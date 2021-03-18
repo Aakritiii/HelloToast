@@ -1,2 +1,2 @@
 # HelloToast
-![](HelloToast.png)
+![](HelloToast.png | width = 100px)
